@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[Blog总算改成Pisces惹]]></title>
+    <url>%2F2019%2F08%2F27%2Fzsok%2F</url>
+    <content type="text"><![CDATA[之前，Muse对窄屏支持不好看不到快捷栏，想改成Pisces，可是每次都是名字改了，但是实际还没改，这次我删除了.deploy_git和public，它总算成功了 web/)]]></content>
+  </entry>
+  <entry>
     <title><![CDATA[Hexo评论怎解]]></title>
     <url>%2F2019%2F08%2F25%2FHow-jie-hexo-pinglung%2F</url>
     <content type="text"><![CDATA[博客制作时候，希望有评论系统，然后……有很多评论的不太支持……。 最后发现基于git的gitment感觉可以在issue上看，好像不戳。 但是出戳惹，OAuth设置惹，next的_config也设置了，不显示，怎么办……]]></content>
