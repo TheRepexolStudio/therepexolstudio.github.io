@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[Hexo评论怎解]]></title>
+    <url>%2F2019%2F08%2F25%2FHow-jie-hexo-pinglung%2F</url>
+    <content type="text"><![CDATA[博客制作时候，希望有评论系统，然后……有很多评论的不太支持……。 最后发现基于git的gitment感觉可以在issue上看，好像不戳。 但是出戳惹，OAuth设置惹，next的_config也设置了，不显示，怎么办……]]></content>
+  </entry>
+  <entry>
+    <title><![CDATA[施工一个没用的页面]]></title>
+    <url>%2F2019%2F08%2F22%2Fwebs%2F</url>
+    <content type="text"><![CDATA[我要搞一个页面，我不想被hexo的索引之类的管辖，但是那样太难看，于是用了jekkyll作。 新页面]]></content>
+  </entry>
+  <entry>
+    <title><![CDATA[又有几个网站完成]]></title>
+    <url>%2F2019%2F08%2F20%2Fbeitai%2F</url>
+    <content type="text"><![CDATA[左侧菜单里有几个链接： ​ 备胎是备用的博客 ​ 下载地址列表是下载mod或者程序用的列表（其实是我弱，不会用git手动把gitbook的内容上传到github，不像hexo一样简单。]]></content>
+  </entry>
+  <entry>
+    <title><![CDATA[专治泰坦打不过疾病]]></title>
+    <url>%2F2019%2F08%2F19%2Ftitan-killer%2F</url>
+    <content type="text"><![CDATA[泰坦生物mod里面有很多连创造都无法打败的生物，因为他们练了厚颜功。死亡时如果是用特定剑打败的会设置满血。但这个拦截检测是在死亡动画里的，因此setDeath和setHealth不管用，只能用实体清除。 找到突破口后我设置了玩家攻击监听器，然后如果拿着特定物品，就会清楚实体。而且我喜欢范围攻击，因为泰坦碰撞箱令人着迷。我顺便做了远程范围攻击，为了不卡，我没有加粒子特效。mod就不给下载地址了免得被泰坦作者发现……，不过如果我确定泰坦停更了，我还是会发(滑稽)的 (^_^)]]></content>
+  </entry>
+  <entry>
+    <title><![CDATA[Welcome]]></title>
+    <url>%2F2019%2F08%2F19%2FWelcome-to-repexol-studio%2F</url>
+    <content type="text"><![CDATA[欢迎进入Repexol Studio的主页! Welcome]]></content>
+  </entry>
+</search>
